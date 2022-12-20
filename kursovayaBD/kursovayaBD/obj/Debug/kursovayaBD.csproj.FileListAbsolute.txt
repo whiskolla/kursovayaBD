@@ -1,0 +1,14 @@
+C:\Users\bfoyb\OneDrive\Desktop\kursovaya\kursovayaBD\kursovayaBD\bin\Debug\kursovayaBD.exe.config
+C:\Users\bfoyb\OneDrive\Desktop\kursovaya\kursovayaBD\kursovayaBD\bin\Debug\kursovayaBD.exe
+C:\Users\bfoyb\OneDrive\Desktop\kursovaya\kursovayaBD\kursovayaBD\bin\Debug\kursovayaBD.pdb
+C:\Users\bfoyb\OneDrive\Desktop\kursovaya\kursovayaBD\kursovayaBD\bin\Debug\Dapper.dll
+C:\Users\bfoyb\OneDrive\Desktop\kursovaya\kursovayaBD\kursovayaBD\bin\Debug\Dapper.xml
+C:\Users\bfoyb\OneDrive\Desktop\kursovaya\kursovayaBD\kursovayaBD\obj\Debug\kursovayaBD.csproj.AssemblyReference.cache
+C:\Users\bfoyb\OneDrive\Desktop\kursovaya\kursovayaBD\kursovayaBD\obj\Debug\kursovayaBD.csproj.SuggestedBindingRedirects.cache
+C:\Users\bfoyb\OneDrive\Desktop\kursovaya\kursovayaBD\kursovayaBD\obj\Debug\kursovayaBD.Form1.resources
+C:\Users\bfoyb\OneDrive\Desktop\kursovaya\kursovayaBD\kursovayaBD\obj\Debug\kursovayaBD.Properties.Resources.resources
+C:\Users\bfoyb\OneDrive\Desktop\kursovaya\kursovayaBD\kursovayaBD\obj\Debug\kursovayaBD.csproj.GenerateResource.cache
+C:\Users\bfoyb\OneDrive\Desktop\kursovaya\kursovayaBD\kursovayaBD\obj\Debug\kursovayaBD.csproj.CoreCompileInputs.cache
+C:\Users\bfoyb\OneDrive\Desktop\kursovaya\kursovayaBD\kursovayaBD\obj\Debug\kursovayaBD.csproj.CopyComplete
+C:\Users\bfoyb\OneDrive\Desktop\kursovaya\kursovayaBD\kursovayaBD\obj\Debug\kursovayaBD.exe
+C:\Users\bfoyb\OneDrive\Desktop\kursovaya\kursovayaBD\kursovayaBD\obj\Debug\kursovayaBD.pdb
